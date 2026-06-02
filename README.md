@@ -29,6 +29,9 @@ Test the C Program for the desired output.
 ##OUTPUT
 <img width="377" height="142" alt="546971359-c37bf00d-c40b-455b-ad6f-e503fcbe939b" src="https://github.com/user-attachments/assets/3608ee09-4dbf-4fe8-8129-7f936046b07a" />
 
+BY : MIRDULA D
+
+REGISTRATION N0 : 212225040234
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
