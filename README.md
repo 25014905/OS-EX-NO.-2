@@ -27,7 +27,8 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
-<img width="377" height="142" alt="546971359-c37bf00d-c40b-455b-ad6f-e503fcbe939b" src="https://github.com/user-attachments/assets/3608ee09-4dbf-4fe8-8129-7f936046b07a" />
+<img width="1600" height="590" alt="image" src="https://github.com/user-attachments/assets/84441f5e-31d7-4e7e-80a7-15194fc9f37c" />
+
 
 BY : MIRDULA D
 
@@ -42,7 +43,7 @@ REGISTRATION N0 : 212225040234
 
 
 
-<img width="504" height="226" alt="546971618-03922753-81dc-455b-9f07-713e73626fd1" src="https://github.com/user-attachments/assets/ecf33734-9d0e-456b-9320-ef53c20e4699" />
+<img width="1600" height="912" alt="image" src="https://github.com/user-attachments/assets/e2624f33-dae5-4f94-b6ef-5662ed1a9811" />
 
 
 
